@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that an invalid user cannot login with incorrect username and password.</description>
+   <name>TC_CURA_Login_02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea55f16a-1cd3-4cd8-be6f-ec05a3fc0b34</testCaseGuid>
+</TestCaseEntity>

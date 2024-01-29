@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that a logged-in user can view their previous booked appointments.</description>
+   <name>TC_CURA_History_02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>041fea8a-3f19-4e3f-895d-384a35cdbf9e</testCaseGuid>
+</TestCaseEntity>

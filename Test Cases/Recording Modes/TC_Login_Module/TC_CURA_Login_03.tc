@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CURA_Login_03</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e98cbcfa-1215-4505-9220-4b6745a57a50</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e7e7432e-10e3-45f0-8c3f-bd3a24c98fcd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>677992d5-e4a5-48fa-a889-c97a759cf555</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>61bde7ed-b1a9-47a5-aac4-b27dbcabfeb4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>e7e7432e-10e3-45f0-8c3f-bd3a24c98fcd</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>677992d5-e4a5-48fa-a889-c97a759cf555</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>61bde7ed-b1a9-47a5-aac4-b27dbcabfeb4</id>
+      <masked>false</masked>
+      <name>Facility1</name>
+   </variable>
+</TestCaseEntity>

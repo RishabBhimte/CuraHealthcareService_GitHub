@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Cura_Login_Checkpoint_03</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Test Data</source-url>
+   </source-info>
+   <taken-date>2024-01-27T00:09:20.847+05:30</taken-date>
+   <column-names>
+      <column-name>Confirm</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Appointment Confirmation",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

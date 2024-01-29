@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that a logged-in user can successfully make an appointment by providing valid details.</description>
+   <name>TC_CURA_MakeAppointment_02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6292729-35c9-4a8d-bed9-56b1a85c89f3</testCaseGuid>
+</TestCaseEntity>

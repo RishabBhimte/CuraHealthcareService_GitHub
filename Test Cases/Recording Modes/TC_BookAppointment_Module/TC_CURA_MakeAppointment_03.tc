@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the all infromation are correct after successfully book appointment.</description>
+   <name>TC_CURA_MakeAppointment_03</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec64fc81-8856-4687-afc3-89493fb9cf1e</testCaseGuid>
+</TestCaseEntity>

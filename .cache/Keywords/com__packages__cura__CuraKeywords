@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "2E22B5B057E5AB43C450F3A0E138EC3C",
+  "keywordClasses": [
+    {
+      "name": "com.packages.cura.CuraKeywords",
+      "keywordMethods": [
+        {
+          "name": "TestKeywords",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F3436EE86BABF72F2F9F4163F194C621",
+  "keywordClasses": [
+    {
+      "name": "com.packages.cura.curaMakeAppointment",
+      "keywordMethods": [
+        {
+          "name": "makeApp",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
