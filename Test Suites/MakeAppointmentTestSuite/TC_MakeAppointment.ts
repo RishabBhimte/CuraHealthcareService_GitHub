@@ -15,21 +15,21 @@
       <guid>798ff83c-df30-4814-bfd0-aca3e92a125f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Recording Modes/TC_BookAppointment_Module/TC_CURA_MakeAppointment_01</testCaseId>
+      <testCaseId>Test Cases/CuraHealthcare_TestCases/TC_BookAppointment_Module/TC_CURA_MakeAppointment_01</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>977af055-d7cd-42af-8080-350930c59a87</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Recording Modes/TC_BookAppointment_Module/TC_CURA_MakeAppointment_02</testCaseId>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/CuraHealthcare_TestCases/TC_BookAppointment_Module/TC_CURA_MakeAppointment_02</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>80b5c677-e43d-4c84-a94a-e82c9ec8b28a</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Recording Modes/TC_BookAppointment_Module/TC_CURA_MakeAppointment_03</testCaseId>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/CuraHealthcare_TestCases/TC_BookAppointment_Module/TC_CURA_MakeAppointment_03</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

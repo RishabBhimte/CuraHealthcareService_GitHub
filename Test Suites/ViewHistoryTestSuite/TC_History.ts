@@ -15,14 +15,14 @@
       <guid>38c4667c-0678-4725-8b4f-bcd529af8142</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Recording Modes/TC_ViewHistory_Module/TC_CURA_History_01</testCaseId>
+      <testCaseId>Test Cases/CuraHealthcare_TestCases/TC_ViewHistory_Module/TC_CURA_History_01</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>83b24fcb-956c-4efe-a877-0b2214ce196d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Recording Modes/TC_ViewHistory_Module/TC_CURA_History_02</testCaseId>
+      <testCaseId>Test Cases/CuraHealthcare_TestCases/TC_ViewHistory_Module/TC_CURA_History_02</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

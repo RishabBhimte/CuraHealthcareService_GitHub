@@ -15,7 +15,7 @@
       <guid>4064d456-391a-44e5-9159-776bde2901b3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Recording Modes/TC_Logout_Module/TC_CURA_Logout_01</testCaseId>
+      <testCaseId>Test Cases/CuraHealthcare_TestCases/TC_Logout_Module/TC_CURA_Logout_01</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -34,7 +34,7 @@
       <guid>a7336392-12b3-49fe-bfb4-7af058a781a4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Recording Modes/TC_Logout_Module/TC_CURA_Logout_02</testCaseId>
+      <testCaseId>Test Cases/CuraHealthcare_TestCases/TC_Logout_Module/TC_CURA_Logout_02</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
